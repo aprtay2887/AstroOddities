@@ -40,6 +40,3 @@ Astro Oddities is your one stop intergalactic emporium of the bizarre and brilli
 
 ## Link to Project
 [Astro Oddities Repository](https://github.com/aprtay2887/AstroOddities)
-
-## License
-This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
