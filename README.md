@@ -38,5 +38,14 @@ Astro Oddities is your one stop intergalactic emporium of the bizarre and brilli
 ## Development Process Used
 - **Agile Methodology**: Emphasizing iterative development, continuous feedback, and collaboration.
 
+## Project Preview
+Homepage: https://github.com/user-attachments/assets/627ec678-8305-4eb2-a717-462ff037ec13
+Product Page: https://github.com/user-attachments/assets/5886f3d5-f918-409b-adc1-1ab160860a2f
+
+
+
+
+
+
 ## Link to Project
 [Astro Oddities Repository](https://github.com/aprtay2887/AstroOddities)
