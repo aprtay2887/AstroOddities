@@ -1,4 +1,4 @@
-# Project Name: Astro Oddities
+# Astro Oddities
 
 ## Project Description
 Astro Oddities is your one stop intergalactic emporium of the bizarre and brilliant - where alien tech meets cosmic lifestyle! From moon-dusted glowing candles to terrain ready footwear to universal translators, every item is rare and from the outer edges of the imagination. Curated for explorers and stargazers alike, Astro Oddities turns the strange into the spectacular. This web application allows for browsing of products offered and the ability to add, update or remove items from cart and check out.
